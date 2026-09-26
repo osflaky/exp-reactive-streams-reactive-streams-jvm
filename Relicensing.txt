@@ -1,0 +1,36 @@
+The following copyright holders agree that all of their contributions originally submitted to this project under Creative Commons
+Zero 1.0 Universal (SPDX: CC0-1.0) license are hereby relicensed to MIT No Attribution (SPDX: MIT-0) license, and are submitted pursuant to the Developer Certificate of Origin, version 1.1:
+
+
+github name    | Real Name, Email Address used for git commits, Company
+---------------+----------------------------------------------------------------------------
+viktorklang    | Viktor Klang, viktor.klang@gmail.com, Lightbend Inc.
+savulchik      | Stanislav Savulchik, s.savulchik@gmail.com
+akarnokd       | David Karnok, akarnokd@gmail.com
+OlegDokuka     | Oleh Dokuka,  oleh.dokuka@icloud.com,
+2m             | Martynas Mickevičius, self@2m.lt, Argyle Inc.
+rkuhn          | Dr. Roland Kuhn, dr.roland.kuhn@gmail.com, Actyx AG
+anthonyvdotbe  | Anthony Vanelverdinghe, dev@anthonyv.be
+angelsanz      | Ángel Sanz, angelsanz@users.noreply.github.com
+shenghaiyang   | 盛海洋, shenghaiyang@aliyun.com
+colinrgodsey   | Colin Godsey, crgodsey@gmail.com
+patriknw       | Patrik Nordwall, patrik.nordwall@gmail.com, Lightbend Inc
+retronym       | Jason Zaugg, jzaugg@gmail.com, Lightbend Inc.
+ldaley         | Luke Daley, luke@gradle.com, Gradle Inc.
+davidmoten     | Dave Moten, davidmoten@gmail.com
+tomislavhofman | Tomislav Hofman, tomislav.hofman@gmail.com
+rstoyanchev    | Rossen Stoyanchev, rstoyanchev@vmware.com, VMware
+ouertani       | Slim Ouertani, ouertani@gmail.com
+egetman        | Evgeniy Getman, getman.eugene@gmail.com
+ktoso          | Konrad Malawski, konrad.malawski@project13.pl
+sullis         | Sean Sullivan, github@seansullivan.com
+jroper         | James Roper, james@jazzy.id.au, Lightbend Inc.
+smaldini       | Stephane Maldini, smaldini@netflix.com, Netflix
+dl             | Doug Lea dl@cs.oswego.edu
+benjchristensen| Ben Christensen, benjchristensen@gmail.com
+bjornhamels    | Björn Hamels, bjorn@hamels.nl
+Scottmitch     | Scott Mitchell, scott_mitchell@apple.com
+seratch        | Kazuhiro Sera, seratch@gmail.com
+briantopping   | Brian Topping, brian.topping@gmail.com, Mauswerks LLC
+JakeWharton    | Jake Wharton, jakewharton@gmail.com, Square Inc.
+kiiadi         | Kyle Thomson, kylthoms@amazon.com, Amazon.com
